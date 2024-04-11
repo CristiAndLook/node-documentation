@@ -27,5 +27,3 @@ export const getPokemonById = async( id: string|number ):Promise<string> => {
   //   .then( ( pokemon ) => pokemon.name );
 
 }
-
-
